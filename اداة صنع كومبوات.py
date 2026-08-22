@@ -48,7 +48,7 @@ print(
 
 print(f"{L}-{M}-"*30)
 print("")
-choice =input(f"{M}  <{L}•{M}> {R}choice {M} <{L}•{M}>  :((({R}")
+choice =input(f"{M}  <{L}•{M}> {R}choice {M} <{L}•{M}>  :{R}")
 
 if choice == "1":
 	domain = "gmail.com"
