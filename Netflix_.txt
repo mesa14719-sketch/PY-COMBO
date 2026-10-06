@@ -1,0 +1,24 @@
+════════════════════════════
+Siberdeyiz'e özel paylaşım
+════════════════════════════
+
+– Email: safakgundogan@hotmail.com
+– Verified: false
+– Profile: Kaan
+– Plan: Basic
+– Next billing: 28 Eylül 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (VISA 0015)
+
+.netflix.com	FALSE	/	FALSE	1791874220	OptanonAlertBoxClosed	2026-03-19T14:20:24.764Z
+.netflix.com	FALSE	/	FALSE	1791874220	nfvdid	BQFmAAEBEKon4wpWCTY2FsfCqDphAPFgXz92Gzp9nQrmwXpafFQ_yDGogLd8jyOXfU3mA4nbekTpMz_cOC8tpZBcHvWs-NVpw-DM6PUrMQ-dGC-hsRI3JY3oMkPlMLZCJIzuxm-IG7NuUuxK7KnSx-9M6zYY6OA6
+.netflix.com	FALSE	/	FALSE	1791874220	dsca	customer
+.netflix.com	FALSE	/	TRUE	1791874220	NetflixId	ct%3DBgjHlOvcAxKCBH-hmBhiwIViRoEyxVROs9_G43BrUEYAOtYyuDIlmbjhgxbsQTVpMfnBJCv8XNAWI9isiJGrY10DCdqygqzgN3LsXGwzgsIkIvwPyZ3VYER95NyE-aFcBjtd2NwfU7cnlfTppDrGk5EejVyAAmpnb1ZjX9-FIZFdDLNUj5t8FRoM4wwQsoXYrSxy9zXvsc04v0b94y3KakgraE2YGP_VQXSZcjfRePIisuMjKbQyTEAJTY7yuSH5VrwcGWCMIpWeuqJ8ctWcarF5iSephN2rxPfBkUzhR-wszDpX2yEuLIEBAKoPMH8NlG6agwoWvPlq-z4CKWk-BVopBW23fOq4J9Qv8sE1xWYQLSCCcBrCxVs8x5o9qljtMtLen9UqGSFWoikBHQ4FGFpWMTPmcSt6vT_QUEsqIXk7IR-fUQ-BXMcFlVEVtCDXVofPpYqETpAXIFbjqTorFo6gkdxg9Xb-hc8pnsAdsi6EaBAT7mA4vmLDMulIk2c0q7V2FfWxEtVXI0FKmDRu-E8uUBzvXSZvx2SCgC-LL2YYSIjGKyj3vDEHByUYOu3LIpXH13Nokw0t6d-OEXRuaPFKtgoRhwlVEIHINZHkzQtBvdAkSmdn5ZLsJFJElWciHaXZtVtvERty-pP27x62NKdLF-0mpqD0iDDGhsDNzvmRjqrVh6O-EaUB5Y4YBiIOCgyH2g_mUThOW59xtH0.%26ch%3DAQEAEAABABRxV9epIvR-9FXENCh-gbz9x5z-LW6HFMs.%26v%3D3%26pg%3DQW3INRCNMJEULD5HDIH5HKI5SA
+.netflix.com	FALSE	/	FALSE	1791874220	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+28+2026+15%3A02%3A48+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=de9909f8-93e8-4f10-bdfa-9f9280912e58&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1773930025421&geolocation=TR%3B16&prevHadToken=0&isDntEnabled=0
+.netflix.com	FALSE	/	TRUE	1791874220	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZYCFMlTw5onHKP8lmRJbv8R3_zX3pVaM.%26dt%3D1787918564827
+.netflix.com	FALSE	/	TRUE	1791874220	gsid	577b8ba8-5534-423d-a7a8-f9f9cae775c9
+.netflix.com	FALSE	/	FALSE	1791874220	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791874220	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791874220	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	FALSE	/	FALSE	1791874220	profilesNewSession	0
